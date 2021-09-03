@@ -14,5 +14,5 @@
 Opencore  
 hackintosh107  
 
-![Screenshot](https://github.com/yahgoo/Hackintosh-HP-9470m-Opencore-Big-Sur/blob/main/img/Screenshot%202021-08-05%20at%202.56.45%20PM.png)
+![Screenshot](https://github.com/yahgoo/Hackintosh-HP-9470m-Opencore-Big-Sur/blob/main/img/Screenshot%202021-09-03%20at%202.10.06%20PM.png)
 
