@@ -1,5 +1,5 @@
 # HP 9470m Opencore Big Sur
-* Opencore EFI for HP Elitebook 9470m running Big Sur 11.5.1
+* Opencore EFI for HP Elitebook 9470m running Big Sur 11.5.2
 
 
 ## Change log
